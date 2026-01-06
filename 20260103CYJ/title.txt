@@ -1,7 +1,7 @@
 標題：
-<h1>嘉義市資訊科技競賽-國中組</h1>
-完成解題請將答案檔案儲存於USB隨身碟<br>
-命名規則『編號-題目編號』，例如編號30，第五題：30-5<br>
+<h1>YoungerDreamWorks-全國賽集訓-嘉義市國小模擬考題</h1>
+<br>
+<br>
 
 Blockly
                     <option value="1" selected>1</option>
@@ -22,4 +22,5 @@ Scratch
                     <option value="6">6-1</option>
                     <option value="7">6-2</option>
                     <option value="8">6-3</option>
+
                     <option value="9">6-4</option>
