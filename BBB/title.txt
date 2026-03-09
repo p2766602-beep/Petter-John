@@ -12,4 +12,5 @@ Scratch
                     <option value="3">3</option>
                     
 
-模式：學習模式
+
+模式：競賽模式
