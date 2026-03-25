@@ -18,10 +18,10 @@ Blockly
                     <option value="12">12-登山冒險 (雙向序列-複合邏輯)</option>
                     <option value="13">13-勇者的背包 (清單讀取)</option>
 					<option value="14">14-戰利品清點 (清單加總)</option>
-					<option value="11">15-尋找戰鬥力最高的魔王 (清單搜尋最大值)</option>
-                    <option value="12">16-合格的裝備 (清單篩選)</option>
-                    <option value="13">17-倒轉時光 (反向遍歷清單)</option>
-					<option value="14">18-冒險日誌 (索引與數值的對應)</option>
+					<option value="15">15-尋找戰鬥力最高的魔王 (清單搜尋最大值)</option>
+                    <option value="16">16-合格的裝備 (清單篩選)</option>
+                    <option value="17">17-倒轉時光 (反向遍歷清單)</option>
+					<option value="18">18-冒險日誌 (索引與數值的對應)</option>
                   
 Scratch
                     <option value="1" selected>1-暖身運動-基礎計數</option>
@@ -38,9 +38,9 @@ Scratch
                     <option value="12">12-登山冒險 (雙向序列-複合邏輯)</option>
                     <option value="13">13-勇者的背包 (清單讀取)</option>
 					<option value="14">14-戰利品清點 (清單加總)</option>
-					<option value="11">15-尋找戰鬥力最高的魔王 (清單搜尋最大值)</option>
-                    <option value="12">16-合格的裝備 (清單篩選)</option>
-                    <option value="13">17-倒轉時光 (反向遍歷清單)</option>
-					<option value="14">18-冒險日誌 (索引與數值的對應)</option>
+					<option value="15">15-尋找戰鬥力最高的魔王 (清單搜尋最大值)</option>
+                    <option value="16">16-合格的裝備 (清單篩選)</option>
+                    <option value="17">17-倒轉時光 (反向遍歷清單)</option>
+					<option value="18">18-冒險日誌 (索引與數值的對應)</option>
 
 
