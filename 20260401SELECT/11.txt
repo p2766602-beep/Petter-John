@@ -1,0 +1,109 @@
+題目：排序結果應用－成績排行榜
+<table>
+	<tr><th>題目說明</th></tr>
+	<tr>
+		<td style="text-align: justify;">
+			小華已經完成「完整雙清單排序」，並且將學生依照<strong>分數由高到低</strong>
+			排序完成。<br><br>
+
+			現在老師希望小華能夠<strong>應用排序後的結果</strong>，
+			製作一份簡單的<strong>成績排行榜</strong>。<br><br>
+
+			請你寫一個程式，完成以下任務：<br>
+			<ul>
+				<li>先依照分數由高到低排序學生資料</li>
+				<li>再依排序後的結果，輸出每位學生的名次、姓名與分數</li>
+			</ul>
+			相同位置的姓名與分數必須保持連動。<br><br>
+
+			注意事項：<br>
+			1. 名次從 1 開始編號。<br>
+			2. 若分數相同，名次仍依排序後的順序編號即可。<br>
+			3. 不可使用任何排序相關的積木或指令。<br><br>
+
+			輸入格式：<br>
+			第1行：5 個姓名（以空格隔開）。<br>
+			第2行：5 個整數，代表對應的分數（以空格隔開）。<br><br>
+
+			輸出格式：<br>
+			輸出 5 行，每一行依序輸出：<br>
+			名次 姓名 分數（以空格隔開）。<br>
+		</td>
+	</tr>
+
+	<tr><th>範例格式</th></tr>
+</table>
+
+<table border="1">
+	<tr>
+		<td width="30%">使用者輸入</td>
+		<td width="30%">輸出</td>
+		<td width="40%">範例說明</td>
+	</tr>
+
+	<tr>
+		<td>
+			Amy Bob Carl Dora Eric<br>
+			80 90 70 85 60
+		</td>
+		<td>
+			1 Bob 90<br>
+			2 Dora 85<br>
+			3 Amy 80<br>
+			4 Carl 70<br>
+			5 Eric 60
+		</td>
+		<td>
+			先完成排序，<br>
+			再依序輸出排行榜。
+		</td>
+	</tr>
+
+	<tr>
+		<td>
+			Tom May John Lily Ken<br>
+			95 88 92 75 60
+		</td>
+		<td>
+			1 Tom 95<br>
+			2 John 92<br>
+			3 May 88<br>
+			4 Lily 75<br>
+			5 Ken 60
+		</td>
+		<td>
+			名次依排序後的位置決定。
+		</td>
+	</tr>
+</table>
+筆數：5
+
+案例1
+第一個輸入：Amy Bob Carl Dora Eric
+第二個輸入：80 90 70 85 60
+預期答案：1 Bob 90 2 Dora 85 3 Amy 80 4 Carl 70 5 Eric 60
+分數：10
+
+案例2
+第一個輸入：Tom May John Lily Ken
+第二個輸入：95 88 92 75 60
+預期答案：1 Tom 95 2 John 92 3 May 88 4 Lily 75 5 Ken 60
+分數：10
+
+案例3
+第一個輸入：A B C D E
+第二個輸入：10 50 30 40 20
+預期答案：1 B 50 2 D 40 3 C 30 4 E 20 5 A 10
+分數：10
+
+案例4
+第一個輸入：Ann Ben Ann Dan Eva
+第二個輸入：90 80 90 70 60
+預期答案：1 Ann 90 2 Ann 90 3 Ben 80 4 Dan 70 5 Eva 60
+分數：10
+
+案例5
+第一個輸入：One Two Three Four Five
+第二個輸入：20 100 80 60 40
+預期答案：1 Two 100 2 Three 80 3 Four 60 4 Five 40 5 One 20
+分數：10
