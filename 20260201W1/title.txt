@@ -16,5 +16,5 @@ Scratch
                     <option value="3">無人搬運車運送計算</option>
                     <option value="4">碼易丁飲料店-4</option>
                     <option value="5">寶可夢訓練師-4</option>
-
+模式：競賽模式
 
