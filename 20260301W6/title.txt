@@ -20,3 +20,4 @@ Scratch
                     <option value="6">6-大風吹搶位子</option>
 
 
+模式：競賽模式
